@@ -1,0 +1,7 @@
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\bin\Debug\Northwind.Entities.exe.config
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\bin\Debug\Northwind.Entities.exe
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\obj\Debug\Northwind.Entities.exe
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\kisin\source\repos\A_DataBaseWork\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
